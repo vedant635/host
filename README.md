@@ -159,7 +159,9 @@ Note: Prices above are before GST (18% added at checkout). Premium and above inc
 
 ### LiteSpeed Servers + NVMe Storage
 
-Every plan runs on LiteSpeed (not Apache) with NVMe SSD storage. Faster page loads, quicker database queries, better traffic spike handling. Standard across all tiers, not a premium add-on.
+Every plan runs on LiteSpeed (not Apache) with NVMe SSD storage. Faster page loads, quicker database queries, better traffic spike handling.
+
+Standard across all tiers, not a premium add-on.
 
 ### hPanel Control Panel
 
@@ -183,19 +185,27 @@ One-click n8n hosting for AI workflows and automation. 500+ app integrations, pr
 
 ## Does Hostinger offer a student discount?
 
-No standalone student programme. Students with a verified StudentBeans account can get an extra 10% in some regions, but the 20% referral link already beats that. The up-to-83% sale pricing is identical for everyone.
+No standalone student programme. Students with a verified StudentBeans account can get an extra 10% in some regions, but the 20% referral link already beats that.
+
+The up-to-83% sale pricing is identical for everyone.
 
 ## Does Hostinger offer a free trial?
 
-No traditional free trial, they rely on the 30-day money-back guarantee instead. Pay upfront, test it for a month, get a full refund if it doesn't work out (hosting fees only; domains are non-refundable). Exception: Hostinger Horizons has a 7-day free trial, no credit card needed.
+No traditional free trial, they rely on the 30-day money-back guarantee instead. Pay upfront, test it for a month, get a full refund if it doesn't work out (hosting fees only; domains are non-refundable).
+
+Exception: Hostinger Horizons has a 7-day free trial, no credit card needed.
 
 ## Hostinger Black Friday & seasonal deals
 
-Biggest discounts (up to 85–90% off) hit during Black Friday and Cyber Monday in late November. Outside that window, the referral link here is the highest active deal. Other sales pop up around the New Year and mid-year, but the difference is usually 5–10%, rarely worth waiting months.
+Biggest discounts (up to 85–90% off) hit during Black Friday and Cyber Monday in late November.
+
+Outside that window, the referral link here is the highest active deal. Other sales pop up around the New Year and mid-year, but the difference is usually 5–10%, rarely worth waiting months.
 
 ## Does the coupon apply to VPS hosting?
 
-Yes. The 20% referral discount and manual codes (DEMANDSAGE) all work on KVM 1 through KVM 8. Minimum 12-month billing cycle required. Full root access, Linux distro choices, and optional control panels are included regardless of which discount you use.
+Yes. The 20% referral discount and manual codes (DEMANDSAGE) all work on KVM 1 through KVM 8. Minimum 12-month billing cycle required.
+
+Full root access, Linux distro choices, and optional control panels are included regardless of which discount you use.
 
 ## What Is Hostinger? Is It Worth It in 2026?
 
